@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnp-js-people-picker-client-side-solution",
+    "id": "c3215ec8-58d4-4bd3-951d-49cbb925042f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "pnp-js-people-picker description"
+      },
+      "longDescription": {
+        "default": "pnp-js-people-picker description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "pnp-js-people-picker Feature",
+        "description": "The feature that activates elements of the pnp-js-people-picker solution.",
+        "id": "a3b62cb5-7ed9-41dd-9ae7-c5e79d51f5e0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/pnp-js-people-picker.sppkg"
+  }
+}
